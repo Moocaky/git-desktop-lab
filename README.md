@@ -46,3 +46,4 @@ This lab is to gain practical experience using Git and GitHub with GitHub Deskto
 ## Screenshot: Merge Conflict Resolution
 ![Merge Conflict](screenshot1.png)
 ![Merge Conflict Resolved](screenshot2.png)
+
